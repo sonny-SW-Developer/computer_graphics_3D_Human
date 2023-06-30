@@ -1,0 +1,74 @@
+﻿  dao.cpp
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(88,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(131,33): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(135,29): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(154,23): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(156,31): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(158,31): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(161,23): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(163,31): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(165,31): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(175,29): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(177,29): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(198,65): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(208,65): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(221,5): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(221,65): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(246,5): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(246,65): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(260,65): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(273,5): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(273,65): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(284,65): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(305,5): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(305,65): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(344,78): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(347,24): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(348,72): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(485,35): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(510,36): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(520,35): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(530,36): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(532,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(541,39): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(542,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(543,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(552,35): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(554,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(563,38): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(564,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(565,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(574,36): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(575,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(576,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(585,35): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(586,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(587,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(598,40): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(609,43): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(620,42): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(631,41): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(632,35): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(640,42): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(650,43): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(660,42): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(670,41): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(680,42): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(690,40): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(705,39): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(716,42): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(727,41): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(738,40): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(739,35): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(747,41): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(757,42): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(767,41): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(777,40): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(787,41): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\selectstar\source\repos\cgproject\cgproject\dao.cpp(797,39): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  코드를 생성하고 있습니다.
+  197 of 198 functions (99.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  cgproject.vcxproj -> C:\Users\selectstar\source\repos\cgproject\x64\Release\cgproject.exe
