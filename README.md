@@ -1,3 +1,5 @@
+![computer_graphics_video](https://github.com/user-attachments/assets/82b5c883-a5cb-4b94-8a3a-96d141492490)
+
 ![computer_graphics_0](https://github.com/user-attachments/assets/15a2b954-1597-40eb-8fa8-535b82b4cd57)
 ![computer_graphics_1](https://github.com/user-attachments/assets/d0559483-e48b-458b-9b25-aa5f142bd21a)
 ![computer_graphics_2](https://github.com/user-attachments/assets/12169f79-38e3-4530-82aa-f697406ed854)
