@@ -1,8 +1,30 @@
-개발 목표
+![computer_graphics_0](https://github.com/user-attachments/assets/15a2b954-1597-40eb-8fa8-535b82b4cd57)
+![computer_graphics_1](https://github.com/user-attachments/assets/d0559483-e48b-458b-9b25-aa5f142bd21a)
+![computer_graphics_2](https://github.com/user-attachments/assets/12169f79-38e3-4530-82aa-f697406ed854)
+![computer_graphics_3](https://github.com/user-attachments/assets/4bc693b6-b788-4b6d-956d-1bdfc8b85a7f)
+![computer_graphics_4](https://github.com/user-attachments/assets/2cff7323-1514-4927-bd0c-ec7d1959c6ae)
+![computer_graphics_5](https://github.com/user-attachments/assets/ede7db4b-81c7-42e6-b365-d74583834d0a)
+![computer_graphics_6](https://github.com/user-attachments/assets/6cfacf82-2763-4ded-b87d-632b8c5e9529)
+![computer_graphics_7](https://github.com/user-attachments/assets/8170dd7e-8ea5-48e4-a7f0-3cefeb9f21a7)
+![computer_graphics_8](https://github.com/user-attachments/assets/8b4f9d04-263a-4197-8392-8ca7b2b2221c)
+![computer_graphics_9](https://github.com/user-attachments/assets/6d05613a-f656-422e-85ea-62813670b3fa)
+![computer_graphics_10](https://github.com/user-attachments/assets/853472e3-de52-4853-9fbb-2fe38953ca48)
+![computer_graphics_11](https://github.com/user-attachments/assets/c0060d1f-0cb7-4453-8e32-aaff2b4b792b)
+![computer_graphics_12](https://github.com/user-attachments/assets/9823c1dd-a7ec-4799-96c4-86ad5fb0f3ff)
+![computer_graphics_13](https://github.com/user-attachments/assets/bc98005c-00b0-4b83-acba-b1761ed59570)
+![computer_graphics_14](https://github.com/user-attachments/assets/72f4dc4a-5a1d-47df-844d-3bfc2092c3b1)
+![computer_graphics_15](https://github.com/user-attachments/assets/412cc797-d20a-42a0-9c30-c8b7fe524352)
+![computer_graphics_16](https://github.com/user-attachments/assets/3b188000-4662-4c12-91f7-242109c513d9)
+![computer_graphics_17](https://github.com/user-attachments/assets/be989fd8-bae6-4fdd-8b1d-50c29409c34c)
+![computer_graphics_18](https://github.com/user-attachments/assets/dddb3cdb-edf7-431e-85e8-5c53724e5413)
+![computer_graphics_19](https://github.com/user-attachments/assets/c1b26652-09a5-4b8c-9236-4cb6fe579c90)
+![computer_graphics_20](https://github.com/user-attachments/assets/a10e17b4-b7af-4a2e-bce2-f54c2f76e5fb)
+![computer_graphics_21](https://github.com/user-attachments/assets/70563782-81a3-4364-959a-f8eacac49fd1)
+![computer_graphics_22](https://github.com/user-attachments/assets/d2cdc8e3-c5f3-4ee4-a907-1e42382ecbee)
+![computer_graphics_23](https://github.com/user-attachments/assets/cbeafeff-3ae8-4654-9f36-d3339a111b21)
+![computer_graphics_24](https://github.com/user-attachments/assets/b8824a87-6010-47d4-aa91-b1671053dd2b)
+![computer_graphics_25](https://github.com/user-attachments/assets/8e2681b9-5ea4-43d4-9233-63babea407f1)
+![computer_graphics_26](https://github.com/user-attachments/assets/8a3b3c56-9ad3-4fca-8361-b94f2499a718)
+![computer_graphics_27](https://github.com/user-attachments/assets/38d65a7f-7b1f-4106-82c0-6342eac526a5)
+![computer_graphics_28](https://github.com/user-attachments/assets/edf10bd9-2a74-4375-ae7e-63e27c4a8b8a)
 
-OpenGL의 Primitive 모델링 함수와 mesh를 사용하여, 3D Virtual Human을 가능한 사실적으로 묘사하였습니다.
-넥슨의 인기 캐릭터 다오를 3D 로 구현하였습니다.
-
-개발 환경
-OS : Window10, MacOS
-IDE : Visual Studio 19, XCode
